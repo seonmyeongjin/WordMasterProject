@@ -48,4 +48,8 @@ public class Word {
 
         return voca;
     }
+
+    public String toFileString(){
+        return this.level + "|" + this.word +"|" +this.meaning;
+    }
 }

@@ -1,0 +1,8 @@
+1|word|단어
+1| love|사랑4
+2| weather|날씨
+2| phone|전화
+3| amusementpark|놀이공원
+1| run|달리다, 경영하다
+2| cahracter|특징
+3| solid |고체
