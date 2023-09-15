@@ -106,6 +106,7 @@ public class WordCRUD implements ICRUD{
                 voc.add(new Word(0, level, word, meaning));
                 count++;
             }
+
             read.close();
             System.out.println("==> " + count+ "개 로딩 완료!!!");
         } catch (IOException e) {
